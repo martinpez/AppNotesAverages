@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801344669727",
+    "project_id": "datanotes-34c0d",
+    "storage_bucket": "datanotes-34c0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801344669727:android:871f435e16e39cc1aa2d2a",
+        "android_client_info": {
+          "package_name": "develp.promedios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApNGDYmRq9i3AX7_OZwEbApOXoxvzlEAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
