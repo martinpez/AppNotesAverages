@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Promedios</string>
     <!-- TODO: Remove or change this placeholder text -->
+    <string name="Login_enter">login successfully</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">801344669727-b1scs30hde3690pgub45pq8lk6qlas00.apps.googleusercontent.com</string>
 </resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Promedios</string>
+    <string name="Login_enter">Inicio sesión exitosamente</string>
+</resources>

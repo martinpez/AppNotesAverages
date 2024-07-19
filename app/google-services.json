@@ -12,7 +12,12 @@
           "package_name": "develp.promedios"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "801344669727-b1scs30hde3690pgub45pq8lk6qlas00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyApNGDYmRq9i3AX7_OZwEbApOXoxvzlEAY"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801344669727-b1scs30hde3690pgub45pq8lk6qlas00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

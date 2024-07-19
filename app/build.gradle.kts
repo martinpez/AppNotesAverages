@@ -34,6 +34,7 @@ android {
 
 dependencies {
 
+    implementation("com.google.android.gms:play-services-auth:20.7.0")
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
